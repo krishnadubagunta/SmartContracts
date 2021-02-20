@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+passphrase.txt
 # production
 /build
 
